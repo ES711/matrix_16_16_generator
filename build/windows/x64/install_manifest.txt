@@ -1,0 +1,16 @@
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/icudtl.dat
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/flutter_windows.dll
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/screen_retriever_plugin.dll
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/window_manager_plugin.dll
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/packages/window_manager/images/ic_chrome_close.png
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/packages/window_manager/images/ic_chrome_maximize.png
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/packages/window_manager/images/ic_chrome_minimize.png
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/packages/window_manager/images/ic_chrome_unmaximize.png
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Users/rs040/StudioProjects/matrix_16_16/build/windows/x64/runner/Release/data/app.so
